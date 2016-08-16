@@ -4,5 +4,7 @@ Open Source version of the Puzzle Game Project. this is the basis for the offlin
 ## Building
 The Puzzle Game build in Visual Studio Compiler. but you will need a basis of DNX dotnet Core in MAC OS, I Can Send to you a MAC Project.
 
-## Play
-
+## How to Play
+You can run this Game in Visual Studio or find /debug/.exe
+These are sample maps in /Map/ Folder. Game image Rendering Base of this folder. There are consist of ASCII special characters(☆, ■, ▶
+, ♥, ○ etc...)
