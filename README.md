@@ -26,6 +26,6 @@ Insert your keyboard data and Enter
             ("help : w, a, s, d , 1, 2 (UP, LEFT, DOWN, RIGHT, BOMB, STAY)");
             
 ## Image
-![bomberman](4sizn.github.com/Console-Puzzle-Game/)
+![bomberman](4sizn.github.com/Console-Puzzle-Game/bomberman.PNG)
 
 Enjoy it!!!
