@@ -1,2 +1,6 @@
 # Console Puzzle Game
-Puzzle, Fps
+Open Source version of the Puzzle Game Project. this is the basis for the offline to console. This Game name is BomberMan.
+
+# Building
+
+# Play
