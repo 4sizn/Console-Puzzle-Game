@@ -14,7 +14,7 @@ These are sample maps in /Map/ Folder. Game image Rendering Base of this folder.
 [□] box
 [■] wall
 [◆/◇] bomb
-
+[★/☆] star
 Insert your keyboard data and Enter
             Console.WriteLine("help : w, a, s, d , 1, 2 (UP, LEFT, DOWN, RIGHT, BOMB, STAY)");
             
