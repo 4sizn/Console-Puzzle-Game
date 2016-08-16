@@ -27,5 +27,6 @@ Insert your keyboard data and Enter
             
 ## Image
 ![bomberman](https://github.com/4sizn/Console-Puzzle-Game/bomberman.PNG)
+![bomberman](https://github.com/4sizn/Console-Puzzle-Game/blob/master/bomberman.PNG)
 
 Enjoy it!!!
