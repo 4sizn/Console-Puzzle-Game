@@ -1,2 +1,2 @@
-# Game
+# Console Puzzle Game
 Puzzle, Fps
